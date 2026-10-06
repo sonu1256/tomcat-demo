@@ -207,7 +207,7 @@
         </form>
 
         <div class="footer">
-            Tomcat Demo Application | Version 1.0
+            Tomcat Demo Application | Version Test.0
         </div>
 
     </div>
